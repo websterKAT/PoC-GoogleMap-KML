@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@googlemaps/js-api-loader": "^1.16.2",
+    "@react-google-maps/api": "^2.19.2",
+    "next": "latest",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
